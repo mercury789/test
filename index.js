@@ -320,6 +320,7 @@ document.addEventListener('click', async () => {
 
 
    alert(perm);
+   console.log(perm);
 })
 
 
